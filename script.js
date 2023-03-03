@@ -143,4 +143,4 @@ function togglePasswordVisibilityConfirm(){
 }
 eyelightconfirm.addEventListener('click', togglePasswordVisibilityConfirm);
 
-/*************************************************** */
+/* ************************************************** */
